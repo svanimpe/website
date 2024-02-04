@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,R as o}from"./chunks/framework.X3d09HAs.js";const g=JSON.parse('{"title":"Evaluation","description":"","frontmatter":{},"headers":[],"relativePath":"evaluation.md","filePath":"evaluation.md"}'),n={name:"evaluation.md"},r=o("",25),s=[r];function i(l,u,h,d,p,c){return t(),a("div",null,s)}const f=e(n,[["render",i]]);export{g as __pageData,f as default};
